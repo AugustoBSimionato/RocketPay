@@ -1,7 +1,7 @@
 <h1 align="center"> ROCKETPAY </h1>
 
 <p align="center">
-Projeto desenvlvido durante o evento Explorer Lab, exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido durante o evento Explorer Lab, exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -22,6 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-## 💻 Projeto
+## 💻 <a href="https://rocketpay-kappa.vercel.app/">Projeto</a>&nbsp;&nbsp;&nbsp;
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
